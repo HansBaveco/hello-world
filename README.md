@@ -1,2 +1,4 @@
 # hello-world
-my trial repositoty
+my trial repository
+
+Learning how to use Github with Squeak smalltalk
